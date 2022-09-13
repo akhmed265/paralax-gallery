@@ -37,8 +37,7 @@ html {
   height: 100%;
   transform: rotate(15deg);
   overflow: visible;
-  top: 40vh;
-  left: 100vh;
+  top: 10vh;
 }
 
 .slider__wrapper {
@@ -84,7 +83,7 @@ html {
 
 .description {
   position: absolute;
-  font-size: calc(var(--sizeindex) * 0.8);
+  font-size: calc(var(--sizeindex) * .8);
   top: 20vh;
   left: 8vw;
   max-width: 24vw;

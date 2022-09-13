@@ -1,6 +1,6 @@
 const sliderMain = new Swiper('.slider_main', {
   freeMode: true,
-  centeredSliders: true,
+  centeredSlides: true,
   mousewheel: true,
 	parallax: true,
   breakpoints: {
